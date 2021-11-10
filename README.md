@@ -1,3 +1,3 @@
-# Dr. Torq bio
+# Dr. Torq bio repository
 drtorq - bio
-This project shares a bit about me and my tech interests.
+This repository shares a bit about me and my tech interests.
