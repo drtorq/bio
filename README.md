@@ -6,7 +6,7 @@ I help people understand the latest cutting-edge tech.
 
 <img class="aligncenter size-large" src="https://github.com/drtorq/bio/blob/master/drtorq-plaque.png"  width="640" height="480" border="1" />
 
-With a background in engineering, fabrication and information technology, I'm uniquely able to explain physical computing, hardware hacking, Linux/OSS, the tech media, and the DIY/Maker movement to just about anybody. The steampunk aesthetic is awesome and I think it's a perfect metaphor for promoting STEAM (science, technology, engineering, art and math).
+With a background in engineering, fabrication and information technology, I'm uniquely able to explain physical computing, hardware hacking, Linux/OSS, the tech media, and the DIY/Maker movement to just about anybody. The steampunk aesthetic is awesome and I think it's a perfect metaphor for promoting STEAM (science, technology, engineering, art and math). It makes it's way into a lot of the gadgets I design.
 
 Developing, designing and building physical projects, then writing and speaking about them are my stock in trade. 
 
