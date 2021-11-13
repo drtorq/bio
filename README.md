@@ -1,6 +1,4 @@
-# Dr. Torq bio repository
-drtorq - bio
-This repository shares a bit about me and my tech interests.
+# Dr. Torq bio
 
 My name is Rob Reilly and I'm widely known an "Dr. Torq". As an independent consultant, writer, and speaker I 
 specialize in helping people understand physical computing, hardware hacking, Linux/OSS, the tech media, and the DIY/Maker movement. I 
