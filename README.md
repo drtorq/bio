@@ -1,6 +1,6 @@
 # Dr. Torq
 
-My name is Rob Reilly and I'm widely known an "Dr. Torq". 
+My name is Rob Reilly and I'm widely known as "Dr. Torq". 
 
 I help people understand the latest cutting-edge tech.
 
